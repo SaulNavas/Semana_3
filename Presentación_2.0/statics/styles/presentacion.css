@@ -22,7 +22,7 @@ table{
 }
 .i{
     position: absolute;
-    top: 569.8vh;
+    top: 589.8vh;
     left: 90vh;
     background-color: rgb(99, 184, 14);
     width: 14vh;
@@ -30,7 +30,7 @@ table{
 }
 .ii{
     position: absolute;
-    top: 578.8vh;
+    top: 598.8vh;
     left: 74vh;
     background-color: rgb(230, 26, 26);
     width: 16vh;
@@ -38,7 +38,7 @@ table{
 }
 .iii{
     position: absolute;
-    top: 572vh;
+    top: 592vh;
     left: 92.5vh;
     background-color: rgb(18, 180, 255);
     width: 9vh;
@@ -46,7 +46,7 @@ table{
 }
 .iv{
     position: absolute;
-    top: 580.3vh;
+    top: 600.3vh;
     left: 106vh;
     background-color: rgb(188, 18, 255);
     width: 12vh;
@@ -54,7 +54,7 @@ table{
 }
 #R{
     position: absolute;
-    top: 595.4vh;
+    top: 615.4vh;
     background-color: rgb(161, 65, 21);
     width: 8vh;
     height: 8vh;
@@ -68,7 +68,7 @@ table{
 }
 .iv{
     position: absolute;
-    top: 582.3vh;
+    top: 602.3vh;
     left: 106vh;
     background-color: rgb(188, 18, 255);
     border-radius: 20%;
@@ -77,7 +77,7 @@ table{
 }
 .vii{
     position: absolute;
-    top: 578.8vh;
+    top: 598.8vh;
     left: 70.1vh;
     background-color: rgb(230, 26, 26);
     width: 7vh;
@@ -86,7 +86,7 @@ table{
 }
 .viii{
     position: absolute;
-    top: 586.4vh;
+    top: 606.4vh;
     left: 85vh;
     background-color: rgb(161, 101, 21);
     width: 17vh;
@@ -95,7 +95,7 @@ table{
 }
 .ix{
     position: absolute;
-    top: 577.8vh;
+    top: 597.8vh;
     left: 124vh;
     background-color: rgb(22, 175, 162);
     border-radius: 30%;
@@ -114,21 +114,21 @@ table{
 }
 .xi{
     position: absolute;
-    top: 570.3vh;
+    top: 590.3vh;
     left: 76.5vh;
     background-color: rgb(206, 112, 25);
     width: 7vh;
     height: 8.5vh;
 }
 .a{
-    top: 561vh;
+    top: 581vh;
     left: 77vh;
 }
 .b{
-    top: 555vh;
+    top: 575vh;
     left: 80vh;
 }
 .c{
-    top: 550vh;
+    top: 570vh;
     left: 85vh;
 }
