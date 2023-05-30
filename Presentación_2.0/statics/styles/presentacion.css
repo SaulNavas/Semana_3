@@ -1,0 +1,134 @@
+@font-face{
+    font-family: "Roboto";
+    src: url(../fonts/RobotoCondensed-Regular.ttf);
+}
+body{
+    font-family: "Roboto";
+    background-color: burlywood;
+}
+table{
+    border-style:double;
+    background-color: crimson;
+}
+.cuadros{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.imge{
+    border-radius: 10% 10% 10% 10%;
+    width: 15vh;
+    height: 15vh;
+}
+.i{
+    position: absolute;
+    top: 569.8vh;
+    left: 90vh;
+    background-color: rgb(99, 184, 14);
+    width: 14vh;
+    height: 25vh;
+}
+.ii{
+    position: absolute;
+    top: 578.8vh;
+    left: 74vh;
+    background-color: rgb(230, 26, 26);
+    width: 16vh;
+    height: 16vh;
+}
+.iii{
+    position: absolute;
+    top: 572vh;
+    left: 92.5vh;
+    background-color: rgb(18, 180, 255);
+    width: 9vh;
+    height: 9vh;
+}
+.iv{
+    position: absolute;
+    top: 580.3vh;
+    left: 106vh;
+    background-color: rgb(188, 18, 255);
+    width: 12vh;
+    height: 14.5vh;
+}
+#R{
+    position: absolute;
+    top: 595.4vh;
+    background-color: rgb(161, 65, 21);
+    width: 8vh;
+    height: 8vh;
+    border-radius: 50%;
+}
+.v{
+    left: 110.2vh;
+}
+.vi{
+    left: 73vh;
+}
+.iv{
+    position: absolute;
+    top: 582.3vh;
+    left: 106vh;
+    background-color: rgb(188, 18, 255);
+    border-radius: 20%;
+    width: 16vh;
+    height: 12.5vh;
+}
+.vii{
+    position: absolute;
+    top: 578.8vh;
+    left: 70.1vh;
+    background-color: rgb(230, 26, 26);
+    width: 7vh;
+    height: 16vh;
+    border-radius: 50%;
+}
+.viii{
+    position: absolute;
+    top: 586.4vh;
+    left: 85vh;
+    background-color: rgb(161, 101, 21);
+    width: 17vh;
+    height: 17vh;
+    border-radius: 50%;
+}
+.ix{
+    position: absolute;
+    top: 577.8vh;
+    left: 124vh;
+    background-color: rgb(22, 175, 162);
+    border-radius: 30%;
+    width: 16vh;
+    height: 17vh;
+}
+.x{
+    left: 128.3vh;
+}
+#V{
+    position: absolute;
+    width: 8vh;
+    height: 8vh;
+    border-radius: 50%;
+    background-color: cornsilk;
+}
+.xi{
+    position: absolute;
+    top: 570.3vh;
+    left: 76.5vh;
+    background-color: rgb(206, 112, 25);
+    width: 7vh;
+    height: 8.5vh;
+}
+.a{
+    top: 561vh;
+    left: 77vh;
+}
+.b{
+    top: 555vh;
+    left: 80vh;
+}
+.c{
+    top: 550vh;
+    left: 85vh;
+}

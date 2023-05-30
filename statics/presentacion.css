@@ -1,0 +1,23 @@
+@font-face{
+    font-family: Roboto;
+    src: url(./statics/fonts/RobotoCondensed-Regular.ttf);
+}
+body{
+    font-family: "Roboto";
+    background-color: burlywood;
+    font-family: 'Montserrat', sans-serif;
+}
+table{
+    border-style:double;
+    background-color: crimson;
+}
+.cuadros{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.imge{
+    border-radius: 10% 10% 10% 10%;
+    width: 15vh;
+    height: 15vh;
+}
